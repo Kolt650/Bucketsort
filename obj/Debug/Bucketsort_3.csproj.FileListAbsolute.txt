@@ -1,0 +1,7 @@
+D:\GeekBrains\Algoritm\HW_8\Bucketsort_3\bin\Debug\Bucketsort_3.exe.config
+D:\GeekBrains\Algoritm\HW_8\Bucketsort_3\bin\Debug\Bucketsort_3.exe
+D:\GeekBrains\Algoritm\HW_8\Bucketsort_3\bin\Debug\Bucketsort_3.pdb
+D:\GeekBrains\Algoritm\HW_8\Bucketsort_3\obj\Debug\Bucketsort_3.csprojAssemblyReference.cache
+D:\GeekBrains\Algoritm\HW_8\Bucketsort_3\obj\Debug\Bucketsort_3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Algoritm\HW_8\Bucketsort_3\obj\Debug\Bucketsort_3.exe
+D:\GeekBrains\Algoritm\HW_8\Bucketsort_3\obj\Debug\Bucketsort_3.pdb
